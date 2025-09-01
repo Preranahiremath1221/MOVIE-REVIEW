@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57491989.css",
+    "main.js": "/static/js/main.537b13ff.js",
+    "static/media/backgroundImage.png": "/static/media/backgroundImage.dc254832e403aa85a00d.png",
+    "static/media/appStore.svg": "/static/media/appStore.fa32d1da54260b9138b719bfbfcf2304.svg",
+    "static/media/logo.svg": "/static/media/logo.023dbb298fbcee04f694bb01e7a7e0b1.svg",
+    "static/media/profile.png": "/static/media/profile.94b72d20f3f82eb5d316.png",
+    "static/media/googlePlay.svg": "/static/media/googlePlay.982486739e3985aee32b678298be237f.svg",
+    "static/media/marvelLogo.svg": "/static/media/marvelLogo.f0a8043fdab587a162b29f1b858b4ee1.svg",
+    "index.html": "/index.html",
+    "static/media/screenImage.svg": "/static/media/screenImage.1408565410d20af2c5e7b34323e7497f.svg",
+    "main.57491989.css.map": "/static/css/main.57491989.css.map",
+    "main.537b13ff.js.map": "/static/js/main.537b13ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57491989.css",
+    "static/js/main.537b13ff.js"
+  ]
+}
